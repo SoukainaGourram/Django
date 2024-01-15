@@ -1,9 +1,9 @@
- # Django
+   # Django
 -  Django is a back-end server side web framework.
 -  Django is free, open source and written in Python.
 - Django makes it easier to build web pages using Python.
 
-  # How does Django Work?
+# How does Django Work?
   Django follows the MVT design pattern (Model View Template).
 -  Model - The data you want to present, usually data from a database.
 -  View - A request handler that returns the relevant template and content - based on the request from the user.
@@ -32,7 +32,7 @@ We can use a single template directory which will be spread over the entire proj
 - Authentication and Authorization: Provides a robust authentication system and flexible authorization controls.
 - Reusable Apps: Encourages the creation of modular and reusable applications.
 
-   # Getting Started:
+# Getting Started:
 #### 1.  Installation:
 
 ```bash
