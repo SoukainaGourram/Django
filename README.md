@@ -53,7 +53,7 @@ python manage.py runserver
 
 ```
 
-#### 4.  Create an App::
+#### 4.  Create an App:
 
 ```bash
 python manage.py startapp appname
